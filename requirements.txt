@@ -1,0 +1,14 @@
+# Core deep learning engine
+torch
+
+# Coqui TTS for text-to-speech functionalities
+TTS
+
+# Library for EPUB file handling
+ebooklib
+
+# Library for PDF processing – chosen for its speed and ease-of-use
+PyMuPDF
+
+# Flask for the future web interface
+flask
